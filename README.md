@@ -1,6 +1,6 @@
 # Programmers-study
 personal study with 
-* Programmers: programers.co.kr
+* Programmers: https://programmers.co.kr/
 
 
 codes are personal solution for the study of programming with website  programmers.
