@@ -8,8 +8,8 @@ codes are personal solution for the study of programming with website  programme
 
 ## 코딩테스트 연습
 * 2019 카카오 개발자 겨울 인턴십 >
-  * 크레인 인형뽑기 게임
+  * 크레인 인형뽑기 게임 (cpp)
 * 2020 카카오 인턴십 > 
-  * 키패드 누르기
+  * 키패드 누르기(cpp)
 * 완전탐색 > 
-  * 모의고사
+  * 모의고사 (python3)
