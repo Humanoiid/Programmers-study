@@ -14,5 +14,5 @@ codes are personal solution for the study of programming with website  programme
 * 완전탐색 > 
   * 모의고사 (python3)
 * 코딩테스트 연습 >
- * 해시 > 
-  * 완주하지 못한 선수 (cpp)
+  * 해시 > 
+    * 완주하지 못한 선수 (cpp)
