@@ -16,3 +16,5 @@ codes are personal solution for the study of programming with website  programme
 * 코딩테스트 연습 >
   * 해시 > 
     * 완주하지 못한 선수 (cpp)
+  * 탐욕법(Greedy) >
+    * 체육복 (cpp)
